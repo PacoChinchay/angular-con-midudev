@@ -1,0 +1,10 @@
+h1{
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 400px;
+  font-size: 20px;
+}
